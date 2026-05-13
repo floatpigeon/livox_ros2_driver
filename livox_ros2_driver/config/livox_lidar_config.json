@@ -1,15 +1,17 @@
 {
     "hub_config": {
-        "broadcast_code": "3A7DKB4001KQKV0",
+        "broadcast_code": "3A7DL4C0014P780",
         "enable_connect": false,
         "coordinate": 0
     },
     "lidar_config": [
         {
             "broadcast_code": "3GGDJA600100151",
+            "enable_connect": false,
             "enable_fan": true,
             "return_mode": 0,
-            "imu_rate": 1
+            "coordinate": 0,
+            "imu_rate": 0
         }
     ]
 }
